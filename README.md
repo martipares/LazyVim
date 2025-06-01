@@ -36,6 +36,8 @@
     </a>
 </div>
 
+Fork of LazyVim/LazyVim for testing purposes.
+
 LazyVim is a Neovim setup powered by [💤 lazy.nvim](https://github.com/folke/lazy.nvim)
 to make it easy to customize and extend your config.
 Rather than having to choose between starting from scratch or using a
